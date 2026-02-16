@@ -25,7 +25,7 @@ Designed for treasury teams managing cash across multiple currencies and geograp
 
 ## 🚀 Live Demo
 
-[View Live Dashboard](https://your-app-name.streamlit.app)
+[View Live Dashboard](https://treasury-dashboard-kzrnqhh3rawc6ryqjtvjvf.streamlit.app)
 
 ## 💼 Use Case
 
